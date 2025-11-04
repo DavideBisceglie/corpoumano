@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Approfondimento Sistemi</title>
+</head>
+
+
+<body style="font-family:'Times New Roman', Times, serif; background-color:#f0f4f8; color:black; margin:0; padding:0;">
+
+
+
+
+<h1 style="text-align:center; background-color:#0077b6; color:white; padding:20px 0;">
+Approfondimento sui Sistemi del Corpo
+</h1>
+
+
+<p style="margin-left:20px; margin-right:20px;">
+I sistemi del corpo umano lavorano insieme in modo complesso per mantenere la vita e la salute. Ecco una spiegazione più dettagliata:
+</p>
+
+
+<ol style="background-color:white; border:1px solid #ccc; padding:10px; margin-left:20px; margin-right:20px;">
+<li style="margin-bottom:5px;"><strong>Sistema scheletrico:</strong> l’insieme di ossa, cartilagini e articolazioni che fornisce la struttura portante del corpo, protegge gli organi interni e funge da deposito per minerali come calcio e fosforo.</li>
+<li style="margin-bottom:5px;"><strong>Sistema muscolare:</strong> composto da tutti i muscoli (scheletrici volontari, lisci e cardiaco), consente il movimento, mantiene la postura e produce calore.</li>
+<li style="margin-bottom:5px;"><strong>Sistema nervoso:</strong> include cervello, midollo spinale e nervi; coordina e regola le attività del corpo e riceve stimoli dai sensi.</li>
+<li style="margin-bottom:5px;"><strong>Sistema circolatorio:</strong> formato da cuore, vasi sanguigni e sangue; trasporta ossigeno, nutrienti, ormoni e rimuove scarti metabolici.</li>
+<li style="margin-bottom:5px;"><strong>Sistema respiratorio:</strong> polmoni, vie aeree e muscoli respiratori; permette lo scambio di ossigeno e anidride carbonica e contribuisce all’equilibrio acido-base.</li>
+<li style="margin-bottom:5px;"><strong>Sistema digerente:</strong> organi che trasformano il cibo in nutrienti assimilabili, li assorbono e eliminano i materiali non utilizzabili.</li>
+<li style="margin-bottom:5px;"><strong>Sistema riproduttivo:</strong> comprende organi sessuali maschili o femminili e consente la produzione di cellule germinali, la fecondazione, lo sviluppo embrionale e la nascita di nuovi indvidui.</li>
+</ol>
+
+
+<p style="margin-left:20px; margin-right:20px; margin-top:20px;">
+<a href="index.html" style="color:#0077b6; text-decoration:none;">Torna alla Home</a> |
+<a href="pagina2.html" style="color:#0077b6; text-decoration:none;">Vai alla Pagina 2</a>
+</p>
+
+
+
+
+<footer style="text-align:center; background-color:#023e8a; color:white; padding:10px 0; margin-top:20px;">
+Bisceglie Davide, Crapa Christian, Tridentino Federico
+</footer>
+
+
+</body>
+</html>
