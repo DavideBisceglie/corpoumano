@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Organi del Corpo Umano</title>
+</head>
+<body style="font-family: 'Times New Roman', Times, serif,; background-color: #f0f4f8; color: black; margin: 0; padding: 0;">
+
+
+
+
+    <h1 style="text-align: center; background-color: #0077b6; color: white; padding: 20px 0;">
+        Organi del Corpo Umano
+    </h1>
+
+
+
+
+
+
+    <p style="margin-left: 20px; margin-right: 20px;">
+        Ecco una tabella semplice con alcuni organi principali e le loro funzioni
+    </p>
+
+
+
+
+
+
+    <table border="1" cellpadding="5" cellspacing="0" style="margin-left: 20px; margin-right: 20px; background-color: #ffffff; border-collapse: collapse; width: 95%;">
+        <tr style="background-color: #0077b6; color: white;">
+            <th>Organo</th>
+            <th>Funzione</th>
+            <th>Immagine</th>
+        </tr>
+        <tr>
+<td><strong>Cuore</strong></td>
+<td>Pompa il sangue in tuttto il corpo</td>
+<td><img src="https://png.pngtree.com/png-clipart/20231020/original/pngtree-anatomy-of-the-human-heart-png-image_13376500.png" alt="Cuore" width="120"></td>
+        </tr>
+
+
+        <tr>
+            <td><strong>Polmoni</strong></td>
+            <td>Scambiano ossigeno e anidride carbonica</td>
+              <td><img src="https://p.turbosquid.com/ts-thumb/Ai/9heuG2/hThCTzP3/sig/jpg/1607838784/600x600/fit_q87/f672fc6b3250a5847226ce6a54d40008ddad1943/sig.jpg" alt="Polmoni" width="120"></td>
+        </tr>
+
+
+        <tr>
+            <td><strong>Fegato</strong></td>
+            <td>Produce bile, elimina tossine e metabolizza nutrenti</td>
+            <td><img src="https://www.dossiersalute.it/wp-content/uploads/Fegato.jpg" alt="Fegato" width="120"></td>
+        </tr>
+
+
+        <tr>
+            <td><strong>Stomaco</strong></td>
+            <td>Digerisce il cibo</td>
+               <td><img src="https://storage.googleapis.com/dev_resources_voka_io_303011/3d-atlas/stomach-3d-model.webp" alt="Stomaco" width="120"></td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+    <p style="margin-left: 20px; margin-right: 20px; margin-top: 20px;">
+        <a href="index.html" style="color: #0077b6; text-decoration: none;">Torna alla Home</a> |
+         <a href="pagina2.html" style="color: #0077b6; text-decoration: none;">Vai alla Pagina 2</a>
+    </p>
+
+
+
+
+    <footer style="text-align: center; background-color: #023e8a; color: white; padding: 10px 0; margin-top: 20px;">
+        Bisceglie Davide, Crapa Cristian, Tridentino Federico
+    </footer>
+</body>
+</html>
