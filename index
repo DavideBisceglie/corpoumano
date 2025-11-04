@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Il Corpo Umano</title>
+</head>
+
+
+<body style="font-family:'Times New Roman', Times, serif; background-color:#f0f4f8; color:black; margin:0; padding:0;">
+
+
+
+
+<h1 style="text-align:center; background-color:#0077b6; color:white; padding:20px 0;">
+Il Corpo Umano
+</h1>
+
+
+<p style="margin-left:20px; margin-right:20px;">
+Il corpo umano è composto da molte parti che lavorano insieme per mantenere la vita e il benessere.
+</p>
+
+
+<h2 style="color:#0077b6; border-bottom:2px solid #0077b6; padding-bottom:5px; margin-left:20px;">
+Sistemi Principali
+</h2>
+
+
+<table border="1" cellpadding="5" cellspacing="0"
+style="margin-left:20px; margin-right:20px; background-color:white; border-collapse:collapse; width:95%;">
+<tr style="background-color:#0077b6; color:white;">
+<th>Sistema</th>
+<th>Funzione</th>
+</tr>
+
+
+<tr>
+<td>Scheletrico</td>
+<td>Sostiene il corpo e protegge gli organi</td>
+</tr>
+
+
+<tr>
+<td>Muscolare</td>
+<td>Permette il movimento</td>
+</tr>
+
+
+<tr>
+<td>Nervoso</td>
+<td>Controlla e coordina le funzioni</td>
+</tr>
+
+
+<tr>
+<td>Circolatorio</td>
+<td>Trasporta sangue e ossigeno</td>
+</tr>
+
+
+<tr>
+<td>Respiratorio</td>
+<td>Scambia ossigeno e CO2</td>
+</tr>
+
+
+<tr>
+<td>Digerente</td>
+<td>Elabora il cibo</td>
+</tr>
+
+
+<tr>
+<td>Riproduttivo</td>
+<td>Permette la nascita di nuovi esseri</td>
+</tr>
+</table>
+
+
+
+
+<p style="margin-left:20px; margin-right:20px; margin-top:20px;">
+<a href="pagina2.html" style="color:#0077b6;">Approfondisci i Sistemi</a> |
+<a href="pagina3.html" style="color:#0077b6;">Vai alla Pagina 3</a>
+</p>
+
+
+
+
+<footer style="text-align:center; background-color:#023e8a; color:white; padding:10px 0; margin-top:20px;">
+Bisceglie Davide, Crapa Christian, Tridentino Federico
+</footer>
+
+
+
+
+</body>
+</html>
+
+
